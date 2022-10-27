@@ -12,5 +12,4 @@ public class Test1Application {
 		SpringApplication.run(Test1Application.class, args);
 		//2일차 강의실에서 작업끝,인커밍확인하기
 	}
-
 }
